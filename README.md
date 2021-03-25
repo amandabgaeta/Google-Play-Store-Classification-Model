@@ -15,7 +15,7 @@ Notebook.pdf includes cleansing, editing, functions, and feature engineering tha
 
 The /scratchWork folder has variations of dadt discovery, data analysis, model approaches, and notebook iterations that were used to get to the final Notebook.pdf.
 
-## Model Iteration
+## Model Iteration and Results
 Notebook.pdf includes an outline of the 12 model iterations that were completed. The final two models, a Decision Tree (model 11) and a Random Forest (model 12), produced either:
 
 1. An accuracy score 1-2% above a random guess and a 50% recall score  (Decision Tree)
@@ -38,7 +38,7 @@ The /images folder holds the images of these plots.
 
 ## Conclusion
 
-#### Recommendations on Model Utilizatoin
+#### Recommendations on Model Utilization
 Although the model is not in a final versioning to be utilized in day-to-day decisions, the consistency from this version can be generally applied to say that marketing, promotion, and adoption of the app is foundationally important.
 
 Along with the technical aptitude for efficient app development, the VC would want CEOs with strong marketing background, a network with these skills, and/or teams that have this expertise.
